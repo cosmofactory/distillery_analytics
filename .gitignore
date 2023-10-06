@@ -168,3 +168,8 @@ settings.json
 
 # logs
 logs.txt
+session.json
+csv_parser/message_store_202310051505.csv
+csv_parser/output.json
+csv_parser/output.txt
+csv_parser/review.md
